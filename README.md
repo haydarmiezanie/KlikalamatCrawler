@@ -17,17 +17,18 @@ Install dependencies
   pip install tenacity
   pip install pandas
   pip install timeit
+  pip install BeautifulSoup
 ```
 
 Start the scraper
 
 ```bash
-  python -m klikpajak [start_page] [end_page]
+  python -m klikalamat [start_page] [end_page]
 ```
 Example :
 
 ```bash
-  python -m klikalamat 1 266
+  python -m klikalamat 1 26
 ```
 ## Crawler Flow
 
