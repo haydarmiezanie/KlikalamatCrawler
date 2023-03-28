@@ -1,7 +1,7 @@
 
 # Read Me
 
-Glints Crawling is Crawler that aims data from Glints to xlsx, this scraper works in about 3 - 5 sec / page depends on the internet .
+Glints Crawling is Crawler that aims data from Klikalamat to xlsx, this scraper works in about 3 - 5 sec / page depends on the internet .
 
 ## Run Locally
 
@@ -32,7 +32,7 @@ Example :
 ```
 ## Crawler Flow
 
-![image](https://user-images.githubusercontent.com/39428898/207851206-24854c8b-fdc1-4ed8-af77-7600b322b09a.png)
+![image](https://user-images.githubusercontent.com/39428898/228292869-b88d8ee0-76bd-4bf4-845d-d44fc7c7b3ed.png)
 
 
 ## Limitation
